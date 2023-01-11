@@ -12,7 +12,7 @@ The work day scheduler allows anyone to keep track of their tasks on a day to da
 - Proceed to do the same until you have your day planned out.
 - The text will be saved even if the page is closed and reopened.
 - Use the Clear All button at the top to clear all the text from each textbox.
-- 
+
 ## Website Showcase
 
 ### <ins>[Work Day Planner](https://tiomeko.github.io/work-day-scheduler/)</ins>
